@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "GrafanaBlog: The engineering on-call experience: misconceptions, lessons learned, and how to prepare"
+title:  "The engineering on-call experience: misconceptions, lessons learned, and how to prepare (GrafanaBlog)"
 date:   2024-03-14 00:00:01 -0500
 categories: grafana-blog
 ---

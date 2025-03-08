@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "GrafanaBlog: How Grafana query caching and Amazon Timestream make dashboards faster and more cost-effective"
+title:  "How Grafana query caching and Amazon Timestream make dashboards faster and more cost-effective (GrafanaBlog)"
 date:   2023-07-31 00:00:01 -0500
 categories: grafana-blog
 ---
