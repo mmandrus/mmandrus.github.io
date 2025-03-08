@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2025 New year reflection"
+title:  "New year reflection"
 date:   2025-01-01 00:00:01 -0500
 categories: self-blog
 ---
