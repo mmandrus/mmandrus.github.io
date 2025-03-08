@@ -23,7 +23,7 @@ email: michael.mandrus@grafana.com
 description: >- # this means to ignore newlines until "baseurl:"
   Brain dump of thoughts and ideas
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mmandrus.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  mmandrus
 
 # Build settings
