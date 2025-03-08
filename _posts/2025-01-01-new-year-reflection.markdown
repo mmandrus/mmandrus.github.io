@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "New year reflection"
+title:  "2025 New year reflection"
 date:   2025-01-01 00:00:01 -0500
-categories: jekyll update
+categories: self-blog
 ---
+***Description:** Some thing I wrote for LinkedIn*
+
 I don't usually do this, but here I go with some new year reflection.
 
 I got promoted to Staff Engineer this past fall. It was one of the hardest things I've ever done, starting with my move to Grafana and a whole new domain, and culminating in the most intense year of my career. I'm left with a complex mixture of pride and regret, given the personal sacrifices I made.
